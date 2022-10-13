@@ -32,5 +32,4 @@ header{background-image:url(images/banner2.jpg);background-position:center;backg
 .btn:hover{color:#000;background-color:#b1b2ff;transform:scale(1.1)}
 .achieve-desc{border:2px solid #b1b2ff;padding:15px;border-radius:15px;box-shadow:2px 4px 8px 4px #b1b2ff}
 .achieve-desc span{font-weight:700!important}
-.achieve-desc p{margin:10px}
 .edu-desc{border:2px solid #b1b2ff;padding:15px;border-radius:15px;box-shadow:2px 4px 8px 4px #b1b2ff}

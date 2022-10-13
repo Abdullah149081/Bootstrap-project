@@ -33,3 +33,14 @@ header{background-image:url(images/banner2.jpg);background-position:center;backg
 .achieve-desc{border:2px solid #b1b2ff;padding:15px;border-radius:15px;box-shadow:2px 4px 8px 4px #b1b2ff}
 .achieve-desc span{font-weight:700!important}
 .edu-desc{border:2px solid #b1b2ff;padding:15px;border-radius:15px;box-shadow:2px 4px 8px 4px #b1b2ff}
+.skill-desc{border:2px solid #b1b2ff;padding:15px;border-radius:15px;box-shadow:2px 4px 8px 4px #b1b2ff}
+#gallery{padding:5% 10%;background-color:#ffd1d1}
+.card{border:2px solid #06283d;transition:.4s}
+.card h5{font-weight:bolder;text-transform:uppercase}
+.card:hover{box-shadow:2px 4px 6px #000;color:#eef1ff;background-color:#b1b2ff;transform:scale(1.1)}
+#feedback{background-color:#fff5e4;padding:5% 10%}
+.carousel-inner{text-align:center;padding:3% 15%}
+.feedback-img{width:300px;height:auto}
+.carousel-control-prev-icon{color:#006283;background-color:#06283d;border-radius:15px}
+.carousel-control-next-icon{color:#06283d;background-color:#006283;border-radius:15px}
+.carousel-indicators [data-bs-target]{background-color:#000}

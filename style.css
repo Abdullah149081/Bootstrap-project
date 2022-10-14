@@ -1,7 +1,8 @@
 html{scroll-behavior:smooth}
 body{font-family:Montserrat,sans-serif}
 h1,h2,h3,h4,h5,h6{font-family:Roboto,sans-serif}
-a{text-decoration:none}
+a{text-decoration:none;color:#000}
+a:hover{color:#000}
 .floatleft{float:left}
 .floatright{float:right}
 .text-justify{text-align:justify}
@@ -44,3 +45,13 @@ header{background-image:url(images/banner2.jpg);background-position:center;backg
 .carousel-control-prev-icon{color:#006283;background-color:#06283d;border-radius:15px}
 .carousel-control-next-icon{color:#06283d;background-color:#006283;border-radius:15px}
 .carousel-indicators [data-bs-target]{background-color:#000}
+#contact{background-color:#ffe6f7;padding:5% 10%}
+#contact label{font-weight:bolder;color:#256d85}
+footer{background-color:#dff6ff;padding:1% 10%}
+footer p{color:#372948}
+footer a{color:#000;margin:0 2px;font-weight:bolder}
+footer a:hover{color:#06283d}
+@media (max-width:768px){
+.nav-link{background-color:#dff6ff}
+.banner-container h1{font-size:2.5rem}
+}
